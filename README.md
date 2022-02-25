@@ -1,2 +1,2 @@
-# kilometre-mil-cevirme
-Kilometre ve ya mil girdiğinizde hesaplar.
+# Bu ne işe yarar?
+Girdiğiniz kilometre ve ya mili istediğiniz değere çevirir.
